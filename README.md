@@ -1,8 +1,11 @@
-# React + Vite
+# React + Vite + Firebase
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Made a polling system with firebase.
 
-Currently, two official plugins are available:
+## Features
+1. Live Polling View for Student & Teacher
+2. User registration
+3. Add a Poll with properties
+4. Show ALl Polls in the Database.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Made with react.
