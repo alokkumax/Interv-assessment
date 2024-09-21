@@ -1,0 +1,55 @@
+.student-portal-container {
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 5rem;
+  }
+  
+  .poll-tile {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f9f9f9;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    padding: 10px 16px;
+    margin-bottom: 10px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    width: 400px;
+  }
+  
+  .poll-question {
+    font-size: 18px;
+    font-weight: 500;
+  }
+  
+  .poll-action {
+    display: flex;
+    align-items: center;
+  }
+  
+  .attempt-button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 8px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: background-color 0.2s;
+    margin: 0px;
+  }
+  
+  .attempt-button:hover {
+    background-color: #0056b3;
+  }
+  
+  h1 {
+    font-size: 26px;
+    margin-bottom: 20px;
+  }
+  
+  p {
+    font-size: 16px;
+    color: #666;
+  }
+  
